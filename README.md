@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/brockreece-whimsical-mcp-server-badge.png)](https://mseep.ai/app/brockreece-whimsical-mcp-server)
+
 # Whimsical MCP Server
 [![smithery badge](https://smithery.ai/badge/@BrockReece/whimsical-mcp-server)](https://smithery.ai/server/@BrockReece/whimsical-mcp-server)
 
